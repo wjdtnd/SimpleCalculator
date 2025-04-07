@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="text_title">초간단 계산기</string>
+    <string name="edit_hint1">숫자입력 1</string>
+    <string name="edit_hint2">숫자입력 2</string>
+    <string name="plus">더하기</string>
+    <string name="minus">빼기</string>
+    <string name="multiply">곱하기</string>
+    <string name="divide">나누기</string>
+    <string name="mod">나머지 값</string>
+    <string name="text_result">계산 결과 : </string>
+</resources>
